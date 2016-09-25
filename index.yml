@@ -1,0 +1,12 @@
+name: "はじめよう"
+author: "WriterLighter 開発者チーム"
+body:
+  - "WriterLighterへようこそ"
+  - "小説、章"
+  - "コマンド"
+  - "キーボードショートカット"
+  - "設定"
+  - "拡張機能"
+metadata:
+  - "クレジット"
+  - "ライセンス"
